@@ -1,0 +1,14 @@
+{
+  "name": "ZhihuBox",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-native-modal": "^0.3.10",
+    "react-native-storage": "0.0.9",
+    "react-native-viewpager": "^0.1.4"
+  }
+}
