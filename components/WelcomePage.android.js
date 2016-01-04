@@ -52,8 +52,8 @@ var WelcomePage = React.createClass({
 		Animated.timing(
 			this.state.bounceValue,
 			{
-				toValue: 1.3,
-				duration: 10000
+				toValue: 1.1,
+				duration: 5000
 			}
 		).start(this.props.onFinish);
 	},

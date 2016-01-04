@@ -152,6 +152,7 @@ var HomeContent = React.createClass({
 				<View style={styles.cardContainer}>
 					<Text style={{
 						fontSize: 16,
+						color: 'black',
 					}}>{theme.name}</Text>
 				</View>
 			</TouchableHighlight>

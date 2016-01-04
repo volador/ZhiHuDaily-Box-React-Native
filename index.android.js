@@ -35,7 +35,7 @@ var ZhihuBox = React.createClass({
   //init state, check if show webcome page
   getInitialState: function(){
     return {
-        showWelcomePage: false
+        showWelcomePage: true
     };
   },
 
